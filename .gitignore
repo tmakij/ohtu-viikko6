@@ -7,3 +7,11 @@ Laskin/nbactions.xml
 Laskin/nb-configuration.xml
 Laskin/.nb-gradle/
 /IntJoukkoSovellus/target/
+Tennis/nbproject/private/
+Tennis/build/
+Tennis/nbbuild/
+Tennis/dist/
+Tennis/nbdist/
+Tennis/nbactions.xml
+Tennis/nb-configuration.xml
+Tennis/.nb-gradle/
