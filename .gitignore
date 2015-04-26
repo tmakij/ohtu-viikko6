@@ -15,3 +15,4 @@ Tennis/nbdist/
 Tennis/nbactions.xml
 Tennis/nb-configuration.xml
 Tennis/.nb-gradle/
+/QueryLanguage1/target/
